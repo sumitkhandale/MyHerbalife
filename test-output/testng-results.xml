@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T11:49:44 IST" name="Suite" finished-at="2024-09-26T11:49:45 IST" duration-ms="114">
+    <groups>
+      <group name="Sanity">
+        <method signature="GroupTestCases.TestCase01()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase01" class="Script_Demo.GroupTestCases"/>
+        <method signature="GroupTestCases.TestCase04()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase04" class="Script_Demo.GroupTestCases"/>
+        <method signature="GroupTestCases.TestCase05()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase05" class="Script_Demo.GroupTestCases"/>
+        <method signature="GroupTestCases.TestCase07()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase07" class="Script_Demo.GroupTestCases"/>
+      </group> <!-- Sanity -->
+      <group name="Retesting">
+        <method signature="GroupTestCases.TestCase05()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase05" class="Script_Demo.GroupTestCases"/>
+        <method signature="GroupTestCases.TestCase06()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase06" class="Script_Demo.GroupTestCases"/>
+        <method signature="GroupTestCases.TestCase07()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase07" class="Script_Demo.GroupTestCases"/>
+      </group> <!-- Retesting -->
+      <group name="Smoke">
+        <method signature="GroupTestCases.TestCase02()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase02" class="Script_Demo.GroupTestCases"/>
+        <method signature="GroupTestCases.TestCase04()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase04" class="Script_Demo.GroupTestCases"/>
+        <method signature="GroupTestCases.TestCase05()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase05" class="Script_Demo.GroupTestCases"/>
+        <method signature="GroupTestCases.TestCase06()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" name="TestCase06" class="Script_Demo.GroupTestCases"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2024-09-26T11:49:44 IST" name="Test" finished-at="2024-09-26T11:49:45 IST" duration-ms="114">
+      <class name="Script_Demo.GroupTestCases">
+        <test-method signature="TestCase01()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" started-at="2024-09-26T11:49:44 IST" name="TestCase01" finished-at="2024-09-26T11:49:44 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase01 -->
+        <test-method signature="TestCase02()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" started-at="2024-09-26T11:49:44 IST" name="TestCase02" finished-at="2024-09-26T11:49:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase02 -->
+        <test-method signature="TestCase04()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" started-at="2024-09-26T11:49:44 IST" name="TestCase04" finished-at="2024-09-26T11:49:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase04 -->
+        <test-method signature="TestCase05()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" started-at="2024-09-26T11:49:44 IST" name="TestCase05" finished-at="2024-09-26T11:49:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase05 -->
+        <test-method signature="TestCase06()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" started-at="2024-09-26T11:49:44 IST" name="TestCase06" finished-at="2024-09-26T11:49:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase06 -->
+        <test-method signature="TestCase07()[pri:0, instance:Script_Demo.GroupTestCases@74751b3]" started-at="2024-09-26T11:49:44 IST" name="TestCase07" finished-at="2024-09-26T11:49:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase07 -->
+      </class> <!-- Script_Demo.GroupTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
